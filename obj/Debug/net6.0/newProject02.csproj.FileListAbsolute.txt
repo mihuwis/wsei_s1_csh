@@ -1,0 +1,15 @@
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.csproj.AssemblyReference.cache
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.AssemblyInfoInputs.cache
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.AssemblyInfo.cs
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.csproj.CoreCompileInputs.cache
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\bin\Debug\net6.0\newProject02.exe
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\bin\Debug\net6.0\newProject02.deps.json
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\bin\Debug\net6.0\newProject02.runtimeconfig.json
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\bin\Debug\net6.0\newProject02.dll
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\bin\Debug\net6.0\newProject02.pdb
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.dll
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\refint\newProject02.dll
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.pdb
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\newProject02.genruntimeconfig.cache
+D:\Users\michal.wisniewski1\source\repos\newProject02\newProject02\obj\Debug\net6.0\ref\newProject02.dll
